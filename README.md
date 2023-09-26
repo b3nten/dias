@@ -1,6 +1,6 @@
 # Dais
 
-A minimal starter template for Deno libraries that can be converted and published to NPM.
+A minimal starter template for Deno libraries that can be converted and published to NPM. To use, clone and `rm -r .git`
 
 ## Scripts
 
