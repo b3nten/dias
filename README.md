@@ -4,12 +4,24 @@ A minimal starter template for Deno libraries that can be converted and publishe
 
 ## Scripts
 
-### Test
+### Dev
+Run entry file (mod.ts).
 ```
-deno test 
+deno task dev
+```
+
+### Test
+Run test suite.
+```
+deno task test
 ```
 ### NPM
 Ensure the NPM configuration is correct in `scripts/build.ts`.
 ```
-deno run -A ./scripts/build.ts 0.0.1
+deno task npm 0.0.1
+```
+### Build
+Build mod.ts as a minified js file.
+```
+deno task build
 ```

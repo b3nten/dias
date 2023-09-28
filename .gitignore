@@ -1,8 +1,13 @@
+# Local
+.npm
+
+# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+# MacOS
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -16,10 +21,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Linux
 *~
 .cache
 .local
 
+# IDEs
 .vscode/
 .idea/
 *.iml
