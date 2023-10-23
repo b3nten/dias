@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg?style=social&label=Star&maxAge=2592000)](https://github.com/freeCodeCamp/freeCodeCamp)
 [![NuGet stable version](https://badgen.net/nuget/v/newtonsoft.json)](https://nuget.org/packages/newtonsoft.json)
 
-*A minimal starter template for Deno libraries that can be converted and published to NPM.
+*A minimal starter template for Deno libraries that can be converted and published to NPM.*
 </div>
 
 ### Scripts
