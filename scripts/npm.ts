@@ -9,7 +9,7 @@ if (!Deno.args[0]) throw new Error("Please specify a version number.");
 await emptyDir(DIR);
 
 await build({
-  entryPoints: ["./mod.ts"],
+  entryPoints: ["./src/mod.ts"],
   outDir: DIR,
   shims: { deno: true },
   typeCheck: "both",
