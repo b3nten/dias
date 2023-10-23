@@ -3,7 +3,7 @@
 
 ![Dias](.github/banner.jpg)
 
-<h2>Dias 🔨</h2>
+<h3>Dias 🔨</h3>
 
 #### Deno and Node minimal starter package
 
