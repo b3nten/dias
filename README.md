@@ -3,7 +3,8 @@
 
 ![Dias](.github/banner.jpg)
 
-### Dias
+<h1>Dias</h1>
+
 #### Deno and Node minimal starter package
 
 [![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
